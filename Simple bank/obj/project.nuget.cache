@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vI3aAVYur1SCWwfGnRBhVFlfGBHAx2z6d9MLNWff9kPL0wovRKa1165baI8krYTEL3w4kvib30oVX6PlFJH1nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ariel.serato\\Desktop\\facultad\\Nueva carpeta\\Simple bank\\Simple bank\\Simple bank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ariel.serato\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
