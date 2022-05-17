@@ -1,4 +1,5 @@
-﻿using Simple_bank.Model;
+﻿using Npgsql;
+using Simple_bank.Model;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -8,6 +9,15 @@ namespace Simple_bank.Data.Repositories
 {
     public class TransferRepository : ITransferReposity
     {
+        private PostgreSQLConfiguration _connectionString;
+        public TransferRepository(PostgreSQLConfiguration connectionString)
+        {
+            _connectionString = connectionString;
+        }
+        protected NpgsqlConnection dbConnection()
+        {
+            return new NpgsqlConnection(_connectionString.ConnectionString);
+        }
         public Task<bool> DeleteTransfer(Transfer transfer)
         {
             throw new NotImplementedException();

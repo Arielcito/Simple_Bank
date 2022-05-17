@@ -1,0 +1,28 @@
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple bank\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple bank\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple bank\bin\Debug\netcoreapp3.1\Simple bank.exe
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple bank\bin\Debug\netcoreapp3.1\Simple bank.deps.json
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple bank\bin\Debug\netcoreapp3.1\Simple bank.runtimeconfig.json
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple bank\bin\Debug\netcoreapp3.1\Simple bank.runtimeconfig.dev.json
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple bank\bin\Debug\netcoreapp3.1\Simple bank.dll
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple bank\bin\Debug\netcoreapp3.1\Simple bank.pdb
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple bank\obj\Debug\netcoreapp3.1\Simple bank.csproj.AssemblyReference.cache
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple bank\obj\Debug\netcoreapp3.1\Simple bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple bank\obj\Debug\netcoreapp3.1\Simple bank.AssemblyInfoInputs.cache
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple bank\obj\Debug\netcoreapp3.1\Simple bank.AssemblyInfo.cs
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple bank\obj\Debug\netcoreapp3.1\Simple bank.csproj.CoreCompileInputs.cache
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple bank\obj\Debug\netcoreapp3.1\Simple bank.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple bank\obj\Debug\netcoreapp3.1\staticwebassets\Simple bank.StaticWebAssets.Manifest.cache
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple bank\obj\Debug\netcoreapp3.1\Simple bank.RazorTargetAssemblyInfo.cache
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple bank\obj\Debug\netcoreapp3.1\Simple bank.dll
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple bank\obj\Debug\netcoreapp3.1\Simple bank.pdb
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple bank\obj\Debug\netcoreapp3.1\Simple bank.genruntimeconfig.cache
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple bank\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple bank\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple bank\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple bank\bin\Debug\netcoreapp3.1\Simple_bank.Data.dll
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple bank\bin\Debug\netcoreapp3.1\Simple_bank.Model.dll
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple bank\bin\Debug\netcoreapp3.1\Simple_bank.Data.pdb
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple bank\bin\Debug\netcoreapp3.1\Simple_bank.Model.pdb
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple bank\obj\Debug\netcoreapp3.1\Simple bank.csproj.CopyComplete
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple bank\bin\Debug\netcoreapp3.1\Dapper.dll

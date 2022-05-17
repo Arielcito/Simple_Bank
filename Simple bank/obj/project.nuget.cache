@@ -1,10 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "vI3aAVYur1SCWwfGnRBhVFlfGBHAx2z6d9MLNWff9kPL0wovRKa1165baI8krYTEL3w4kvib30oVX6PlFJH1nw==",
+  "dgSpecHash": "FLQ/PXZ/Cpsxp0Igzh4tW8NFGUZ04xkqxG4LqyiDB/2xRXoN62Aay2rC6u6+7LXSDUdAuggTd2ZEwQ3/od6yFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ariel.serato\\Desktop\\facultad\\Nueva carpeta\\Simple bank\\Simple bank\\Simple bank.csproj",
+  "projectFilePath": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Programacion\\net projects\\Simple_Bank\\Simple bank\\Simple bank.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ariel.serato\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+    "C:\\Users\\ariel\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\npgsql\\6.0.4\\npgsql.6.0.4.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -11,5 +11,10 @@
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.14.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Simple_bank.Data\Simple_bank.Data.csproj" />
+    <ProjectReference Include="..\Simple_bank.Model\Simple_bank.Model.csproj" />
+  </ItemGroup>
+
 
 </Project>

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ariel.serato\\Desktop\\facultad\\Nueva carpeta\\Simple bank\\Simple bank\\Simple bank.csproj": {}
+    "C:\\Users\\ariel\\OneDrive\\Escritorio\\Programacion\\net projects\\Simple_Bank\\Simple bank\\Simple bank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ariel.serato\\Desktop\\facultad\\Nueva carpeta\\Simple bank\\Simple bank\\Simple bank.csproj": {
+    "C:\\Users\\ariel\\OneDrive\\Escritorio\\Programacion\\net projects\\Simple_Bank\\Simple bank\\Simple bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ariel.serato\\Desktop\\facultad\\Nueva carpeta\\Simple bank\\Simple bank\\Simple bank.csproj",
+        "projectUniqueName": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Programacion\\net projects\\Simple_Bank\\Simple bank\\Simple bank.csproj",
         "projectName": "Simple bank",
-        "projectPath": "C:\\Users\\ariel.serato\\Desktop\\facultad\\Nueva carpeta\\Simple bank\\Simple bank\\Simple bank.csproj",
-        "packagesPath": "C:\\Users\\ariel.serato\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ariel.serato\\Desktop\\facultad\\Nueva carpeta\\Simple bank\\Simple bank\\obj\\",
+        "projectPath": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Programacion\\net projects\\Simple_Bank\\Simple bank\\Simple bank.csproj",
+        "packagesPath": "C:\\Users\\ariel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Programacion\\net projects\\Simple_Bank\\Simple bank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ariel.serato\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ariel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,7 +27,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\ariel\\OneDrive\\Escritorio\\Programacion\\net projects\\Simple_Bank\\Simple_bank.Data\\Simple_bank.Data.csproj": {
+                "projectPath": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Programacion\\net projects\\Simple_Bank\\Simple_bank.Data\\Simple_bank.Data.csproj"
+              },
+              "C:\\Users\\ariel\\OneDrive\\Escritorio\\Programacion\\net projects\\Simple_Bank\\Simple_bank.Model\\Simple_bank.Model.csproj": {
+                "projectPath": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Programacion\\net projects\\Simple_Bank\\Simple_bank.Model\\Simple_bank.Model.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -63,7 +70,129 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ariel\\OneDrive\\Escritorio\\Programacion\\net projects\\Simple_Bank\\Simple_bank.Data\\Simple_bank.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Programacion\\net projects\\Simple_Bank\\Simple_bank.Data\\Simple_bank.Data.csproj",
+        "projectName": "Simple_bank.Data",
+        "projectPath": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Programacion\\net projects\\Simple_Bank\\Simple_bank.Data\\Simple_bank.Data.csproj",
+        "packagesPath": "C:\\Users\\ariel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Programacion\\net projects\\Simple_Bank\\Simple_bank.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ariel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\ariel\\OneDrive\\Escritorio\\Programacion\\net projects\\Simple_Bank\\Simple_bank.Model\\Simple_bank.Model.csproj": {
+                "projectPath": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Programacion\\net projects\\Simple_Bank\\Simple_bank.Model\\Simple_bank.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ariel\\OneDrive\\Escritorio\\Programacion\\net projects\\Simple_Bank\\Simple_bank.Model\\Simple_bank.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Programacion\\net projects\\Simple_Bank\\Simple_bank.Model\\Simple_bank.Model.csproj",
+        "projectName": "Simple_bank.Model",
+        "projectPath": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Programacion\\net projects\\Simple_Bank\\Simple_bank.Model\\Simple_bank.Model.csproj",
+        "packagesPath": "C:\\Users\\ariel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Programacion\\net projects\\Simple_Bank\\Simple_bank.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ariel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

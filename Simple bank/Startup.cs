@@ -6,6 +6,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Simple_bank.Data;
+using Simple_bank.Data.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -25,6 +27,12 @@ namespace Simple_bank
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+
+            var postgreSQLConnectionConfiguration = new PostgreSQLConfiguration("User ID=root;Password=admin123;Server=localhost;Port=5432;Database=Simple_bank;");
+            services.AddSingleton(postgreSQLConnectionConfiguration);
+
+            services.AddScoped<IAccountRepository,AccountRepository>();
+
             services.AddControllers();
         }
 

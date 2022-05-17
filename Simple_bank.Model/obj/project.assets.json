@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\ariel.serato\\.nuget\\packages\\": {}
+    "C:\\Users\\ariel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ariel.serato\\Desktop\\facultad\\Nueva carpeta\\Simple bank\\Simple_bank.Model\\Simple_bank.Model.csproj",
+      "projectUniqueName": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Programacion\\net projects\\Simple_Bank\\Simple_bank.Model\\Simple_bank.Model.csproj",
       "projectName": "Simple_bank.Model",
-      "projectPath": "C:\\Users\\ariel.serato\\Desktop\\facultad\\Nueva carpeta\\Simple bank\\Simple_bank.Model\\Simple_bank.Model.csproj",
-      "packagesPath": "C:\\Users\\ariel.serato\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ariel.serato\\Desktop\\facultad\\Nueva carpeta\\Simple bank\\Simple_bank.Model\\obj\\",
+      "projectPath": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Programacion\\net projects\\Simple_Bank\\Simple_bank.Model\\Simple_bank.Model.csproj",
+      "packagesPath": "C:\\Users\\ariel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Programacion\\net projects\\Simple_Bank\\Simple_bank.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ariel.serato\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ariel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,10 @@
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple_bank.Model\bin\Debug\netcoreapp3.1\Simple_bank.Model.deps.json
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple_bank.Model\bin\Debug\netcoreapp3.1\Simple_bank.Model.dll
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple_bank.Model\bin\Debug\netcoreapp3.1\Simple_bank.Model.pdb
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple_bank.Model\obj\Debug\netcoreapp3.1\Simple_bank.Model.csproj.AssemblyReference.cache
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple_bank.Model\obj\Debug\netcoreapp3.1\Simple_bank.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple_bank.Model\obj\Debug\netcoreapp3.1\Simple_bank.Model.AssemblyInfoInputs.cache
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple_bank.Model\obj\Debug\netcoreapp3.1\Simple_bank.Model.AssemblyInfo.cs
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple_bank.Model\obj\Debug\netcoreapp3.1\Simple_bank.Model.csproj.CoreCompileInputs.cache
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple_bank.Model\obj\Debug\netcoreapp3.1\Simple_bank.Model.dll
+C:\Users\ariel\OneDrive\Escritorio\Programacion\net projects\Simple_Bank\Simple_bank.Model\obj\Debug\netcoreapp3.1\Simple_bank.Model.pdb

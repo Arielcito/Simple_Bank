@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "UU0gCRjMpbQ6pLbc/PP0BDwhCNh7EHbprwK2n7N4hNifd7kPDDLq6EsvlbNaqYEOh99lRkCY0b6a8RiYcRSgcg==",
+  "dgSpecHash": "TFwa/4XVLFHn2OpYLDx+qeXenAWbnzV/hJrQEQFfYREK7o36N61YfqqNGJzkb8j5QZXEp44kxBw7SiQKskfoJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ariel.serato\\Desktop\\facultad\\Nueva carpeta\\Simple bank\\Simple_bank.Data\\Simple_bank.Data.csproj",
+  "projectFilePath": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Programacion\\net projects\\Simple_Bank\\Simple_bank.Data\\Simple_bank.Data.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ariel.serato\\.nuget\\packages\\npgsql\\6.0.4\\npgsql.6.0.4.nupkg.sha512",
-    "C:\\Users\\ariel.serato\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
-    "C:\\Users\\ariel.serato\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
-    "C:\\Users\\ariel.serato\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\ariel\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\npgsql\\6.0.4\\npgsql.6.0.4.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
